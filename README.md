@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Bellofigo21
+$whoami
+
+- 👋 Hi, I'm BigD
 - 👀 I’m interested in programming
 - 🌱 I’m currently studying programming languages
 - 💞️ I’m looking to collaborate on everything
