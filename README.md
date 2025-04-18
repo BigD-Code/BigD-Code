@@ -1,6 +1,6 @@
 <!-- Matrix Digital Rain Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Matrix Digital Rain" width="900">
+  <img src="Immagine_2025-04-18_173816-removebg-preview.png" alt="Matrix Digital Rain" width="900">
 </div>
 
 # 〘 B̴̰̋i̶̡͑g̸̖͝D̶̢̈-̴̱͊C̵̪̀o̷̻͑d̴̰̏e̷̗̓ 〙
