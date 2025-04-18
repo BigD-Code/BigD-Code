@@ -1,147 +1,276 @@
-# 🔥 BigD-Code 🔥
+<!-- Matrix Digital Rain Effect --> <div align="center"> <img src="/api/placeholder/900/150" alt="Matrix Digital Rain"> </div>
+<span style="color:
+#00ff00">〘 B̷̨̛̟͈i̴͖̿g̸̭̀Ḏ̵̽-̶̧̻͐C̵͕͆ȍ̵̤d̷̗̀e̶̪̎ 〙</span>
+<div align="center"> <img src="/api/placeholder/900/350" alt="BigD-Code Terminal Interface">
+╔════════════════════════════════════════════════════════════════════════════════╗
+║ [!] SECURITY BREACH DETECTED                                                   ║
+║ [!] UNAUTHORIZED ACCESS TO SYSTEM                                              ║
+║ [!] INITIATING COUNTERMEASURES...                                              ║
+║ [!] COUNTERMEASURES BYPASSED                                                   ║
+║ [+] ACCESS GRANTED TO USER: BigD-Code                                          ║
+║ [+] WELCOME TO THE VOID                                                        ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+</div> <div align="center"> <code>$ sudo ./initiate_neural_interface --deep-scan --target=mainframe</code> </div> <br> <!-- Terminal Output Section -->
+bash
+#!/bin/bash
+#=======================================================================================
+# SYSTEM INFILTRATION IN PROGRESS
+#=======================================================================================
 
-![GitHub followers](https://img.shields.io/github/followers/BigD-Code?style=social)
-![Profile views](https://img.shields.io/badge/Profile%20Views-1337-blue)
-![Hacking Skills](https://img.shields.io/badge/Hacking-Elite-red)
+echo "[+] Targeting system defenses..."
+echo "[+] Exploiting CVE-2025-7639..."
+echo "[+] Kernel security breach successful..."
+echo "[+] Establishing encrypted tunnel..."
+echo "[+] Disabling IDS/IPS..."
+echo "[+] Creating backdoor..."
+echo "[+] Extracting sysadmin credentials..."
+echo "[+] Elevating privileges..."
+echo "[+] Root access obtained: Welcome to BigD-Code_"
+<span style="color:
+#00ff00">⟦⟦ 𝕋𝕙𝕖 𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣 ⟧⟧</span>
+<div align="center"> <table border="0"> <tr> <td width="40%" align="center"> <img src="/api/placeholder/300/300" alt="Cyber Identity" style="border-radius:15px; border:2px solid #32CD32"> </td> <td width="60%"> <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #32CD32;"> <pre><code> ┌──────────────────────────────────────────────────┐ │ │ │ CODENAME: BigD-Code │ │ STATUS: Active │ │ THREAT LEVEL: Critical │ │ SPECIALIZATION: Full-Spectrum Cyber Operations │ │ LOCATION: [REDACTED] │ │ KNOWN ASSOCIATES: [DATA EXPUNGED] │ │ │ └──────────────────────────────────────────────────┘ </code></pre> </div> </td> </tr> </table> </div> <details> <summary><b>📂 CLASSIFIED DOSSIER [CLICK TO DECRYPT]</b></summary> <br>
+I navigate the boundary between digital and physical realms, manipulating bits and bytes to bend reality. As a digital phantom, I infiltrate systems, reshape code, and create digital fortresses. My knowledge spans from the deepest layers of hardware to the ethereal landscapes of artificial intelligence.
 
-<div align="center">
-  <img src="/api/placeholder/900/300" alt="BigD-Code Banner">
-  <br>
-  <code>> Exploring the digital frontier one line of code at a time...</code>
-</div>
+Where others see barriers, I see doorways. Where others see rules, I see guidelines. The digital world is my canvas, and code is my art form.
 
-## 💻 About Me
-
-```
-[*] Scanning target profile...
-[*] Access granted...
-[*] Extracting data...
-```
-
-Full-stack developer and ethical hacker with expertise in system penetration, vulnerability assessment, and exploit development. Passionate about hardware hacking, AI development, and pushing the boundaries of what's possible in the digital realm.
-
-## 🛠️ Weapons of Choice
-
-```bash
-$ cat skills.txt
-```
-
-### Development
-- **Languages**: Python | JavaScript | C/C++ | Rust | Go | PHP
-- **Frontend**: React | Vue.js | Next.js | WebGL | Three.js
-- **Backend**: Node.js | Django | Flask | Laravel | Express
-- **Databases**: MongoDB | PostgreSQL | Redis | ElasticSearch
-
-### Security
-- **Penetration Testing**: Metasploit | Burp Suite | OWASP ZAP | Nmap
-- **Forensics**: Volatility | Autopsy | Wireshark | TCPDump
-- **Reverse Engineering**: Ghidra | IDA Pro | Radare2 | Binary Ninja
-- **OS**: Kali Linux | ParrotOS | BlackArch | Qubes OS
-
-### Hardware
-- **Platforms**: Raspberry Pi | Arduino | ESP32 | Custom PCB Design
-- **RF**: Software Defined Radio | Signal Analysis | Wifi Hacking
-- **IoT**: Device Security Analysis | Firmware Exploitation | Smart Device Integration
-
-### AI/ML
-- **Frameworks**: TensorFlow | PyTorch | Keras | scikit-learn
-- **Focus Areas**: Computer Vision | NLP | Reinforcement Learning | Adversarial ML
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">NetSurveillance</h3>
-      <p align="center">
-        <a href="https://github.com/BigD-Code/project1" target="_blank">
-          <img src="/api/placeholder/400/200" alt="Project 1">
-        </a>
-        <p>Advanced network monitoring tool with deep packet inspection and intrusion detection capabilities.</p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">BinaryDissector</h3>
-      <p align="center">
-        <a href="https://github.com/BigD-Code/project2" target="_blank">
-          <img src="/api/placeholder/400/200" alt="Project 2">
-        </a>
-        <p>Automated binary analysis framework for vulnerability discovery and exploit development.</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AIGuardian</h3>
-      <p align="center">
-        <a href="https://github.com/BigD-Code/project3" target="_blank">
-          <img src="/api/placeholder/400/200" alt="Project 3">
-        </a>
-        <p>Neural network-based intrusion detection system with real-time threat analysis.</p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">HardwareBridge</h3>
-      <p align="center">
-        <a href="https://github.com/BigD-Code/project4" target="_blank">
-          <img src="/api/placeholder/400/200" alt="Project 4">
-        </a>
-        <p>Framework for integrating and securing IoT devices across various protocols and platforms.</p>
-      </p>
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="/api/placeholder/400/200" alt="GitHub Stats" />
-  <img height="180em" src="/api/placeholder/400/200" alt="Most Used Languages" />
-</div>
-
-## 🔍 Exploit Timeline
-
-```
-[2025-01] Discovered critical vulnerability in popular IoT platform
-[2024-11] Published research on AI-based malware detection evasion techniques
-[2024-08] Contributed zero-day fixes to major open-source security tools
-[2024-05] Presented at BlackHat on hardware security vulnerabilities
-```
-
-## 🌐 Connect With Me
-
-<div align="center">
+[ALERT]: This operator has been flagged for exceptional abilities in system penetration and zero-day discovery.
+</details>
+<span style="color:
+#00ff00">⟦⟦ 𝔸𝕣𝕤𝕖𝕟𝕒𝕝 & ℂ𝕒𝕡𝕒𝕓𝕚𝕝𝕚𝕥𝕚𝕖𝕤 ⟧⟧</span>
+<div align="center"> <img src="/api/placeholder/900/100" alt="Digital Landscape"> </div> <table border="0"> <tr> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="Code Icon"><br> <b style="color:#00ff00">⟪ CODE MASTERY ⟫</b> </td> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="Security Icon"><br> <b style="color:#00ff00">⟪ SECURITY OPS ⟫</b> </td> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="Hardware Icon"><br> <b style="color:#00ff00">⟪ HARDWARE HACKING ⟫</b> </td> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="AI Icon"><br> <b style="color:#00ff00">⟪ AI DEVELOPMENT ⟫</b> </td> </tr> </table>
+<span style="color:
+#00ff00">░▒▓█ ℂ𝕠𝕕𝕖 𝕄𝕒𝕤𝕥𝕖𝕣𝕪 █▓▒░</span>
+<div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
+typescript
+class EliteCodeMaster {
+  private readonly languages: string[] = [
+    "Python", "JavaScript/TypeScript", "Rust", "C/C++", "Go", "Assembly", "Ruby"
+  ];
   
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BigD-Code)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/BigD-Code)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BigD-Code)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://BigD-Code.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@BigD-Code.com)
-
+  private readonly frontend: Record<string, string[]> = {
+    frameworks: ["React", "Vue.js", "Angular", "Svelte", "Three.js"],
+    styling: ["Tailwind CSS", "SASS", "Styled Components", "Motion Libraries"],
+    state: ["Redux", "Zustand", "Context API", "Recoil"],
+    rendering: ["SSR", "SSG", "ISR", "Client-Side"]
+  };
+  
+  private readonly backend: Record<string, string[]> = {
+    frameworks: ["Node.js", "Django", "Flask", "FastAPI", "Express", "Laravel", "Spring"],
+    architecture: ["Microservices", "Serverless", "Event-Driven", "Monolithic"],
+    apis: ["REST", "GraphQL", "gRPC", "WebSockets", "WebRTC"]
+  };
+  
+  private readonly databases: Record<string, string[]> = {
+    sql: ["PostgreSQL", "MySQL", "SQLite", "MS SQL"],
+    nosql: ["MongoDB", "Redis", "Cassandra", "ElasticSearch", "Neo4j"],
+    cloud: ["Firebase", "DynamoDB", "CosmosDB"],
+    concepts: ["Sharding", "Replication", "ACID", "Indexing Strategies", "Query Optimization"]
+  };
+  
+  public executeDevOps(): void {
+    console.log("Deploying with Docker, Kubernetes, Terraform, and GitHub Actions");
+    console.log("Implementing CI/CD pipelines for continuous deployment");
+    console.log("Monitoring with Prometheus, Grafana, and ELK Stack");
+  }
+}
 </div>
+<span style="color:
+#00ff00">░▒▓█ 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕆𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟𝕤 █▓▒░</span>
+<div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
+python
+def security_arsenal():
+    """Initialize the complete security toolkit of BigD-Code"""
+    return {
+        "offensive_security": {
+            "penetration_testing": ["Metasploit", "Cobalt Strike", "Burp Suite Pro", "OWASP ZAP", "Nmap", "Nessus"],
+            "exploit_development": ["ROP Chains", "Shellcode Engineering", "Fuzzing", "Heap Exploitation", "Format String Attacks"],
+            "social_engineering": ["Phishing Frameworks", "Pretexting", "OSINT Tools", "Spear Phishing", "Watering Hole Attacks"],
+            "wireless_attacks": ["Aircrack-ng", "WiFite", "Kismet", "Bluetooth Exploitation", "SDR Tools"]
+        },
+        "defensive_security": {
+            "blue_team": ["SIEM Implementation", "Threat Hunting", "Incident Response", "Digital Forensics", "Malware Analysis"],
+            "security_hardening": ["OS Hardening", "Network Segmentation", "Firewall Rule Management", "WAF Configuration"],
+            "deception_tech": ["Honeypots", "Honeynets", "Canary Tokens", "DNS Sinkholes", "Tarpits"]
+        },
+        "cryptography": {
+            "implementation": ["Custom Algorithms", "PKI Management", "Key Exchange Protocols", "Zero-knowledge Proofs"],
+            "cryptanalysis": ["Side-Channel Analysis", "Differential Cryptanalysis", "Timing Attacks", "Hash Collision"]
+        },
+        "operating_systems": ["Kali Linux", "ParrotOS", "BlackArch", "Qubes OS", "Tails", "Custom Hardened Linux"]
+    }
+</div>
+<span style="color:
+#00ff00">░▒▓█ ℍ𝕒𝕣𝕕𝕨𝕒𝕣𝕖 ℍ𝕒𝕔𝕜𝕚𝕟𝕘 █▓▒░</span>
+<div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
+c
+typedef struct {
+    char* platforms[10];
+    char* radio_frequency[8];
+    char* physical_security[6];
+    char* embedded_systems[12];
+    char* iot_exploitation[8];
+} HardwareArsenal;
 
-## 📡 Activity Feed
+HardwareArsenal initialize_hardware_toolkit() {
+    HardwareArsenal arsenal;
+    
+    arsenal.platforms = {
+        "Raspberry Pi", "Arduino", "ESP32", "STM32", "BeagleBone",
+        "FPGA Development", "Custom PCB Design", "PLC Systems", 
+        "Industrial Control Systems", "SCADA Networks"
+    };
+    
+    arsenal.radio_frequency = {
+        "Software Defined Radio", "RF Signal Analysis", "Signal Jamming",
+        "Custom Antenna Design", "RF Replay Attacks", "EM Side-Channel Analysis",
+        "RFID/NFC Exploitation", "GPS Spoofing"
+    };
+    
+    arsenal.physical_security = {
+        "Lock Picking", "RFID Cloning", "HID Card Attacks",
+        "Physical Bypass Methods", "Covert Entry Techniques", "Badge Manipulation"
+    };
+    
+    arsenal.embedded_systems = {
+        "Firmware Extraction", "JTAG/SWD Debugging", "Flash Memory Dumping",
+        "Hardware Debugging", "UART/I2C/SPI Analysis", "Secure Boot Bypass",
+        "On-Chip Debugging", "Secure Element Attacks", "Side-Channel Analysis",
+        "Fault Injection", "Microcontroller Glitching", "Hardware Implants"
+    };
+    
+    arsenal.iot_exploitation = {
+        "Smart Device Analysis", "IoT Protocol Attacks", "Firmware Modification",
+        "OTA Update Hijacking", "BLE Exploitation", "ZigBee/Z-Wave Attacks",
+        "Voice Assistant Vulnerabilities", "Remote Command Injection"
+    };
+    
+    return arsenal;
+}
+</div>
+<span style="color:
+#00ff00">░▒▓█ 𝔸𝕀 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 █▓▒░</span>
+<div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
+javascript
+const AI_capabilities = {
+  core_frameworks: [
+    "TensorFlow", "PyTorch", "JAX", "Keras", "scikit-learn", 
+    "Hugging Face", "ONNX", "TensorRT", "DeepSpeed"
+  ],
+  
+  computer_vision: {
+    techniques: [
+      "CNN Architecture Design", "Object Detection", "Image Segmentation", 
+      "Image Generation", "GANs", "Diffusion Models", "NeRF", 
+      "Video Analysis", "Pose Estimation"
+    ],
+    applications: [
+      "Surveillance Systems", "Autonomous Vehicle Vision", "Biometric Recognition",
+      "Medical Imaging Analysis", "Satellite Imagery Processing"
+    ]
+  },
+  
+  natural_language_processing: {
+    models: [
+      "Transformer Architecture", "BERT/RoBERTa", "GPT Architecture", 
+      "T5/BART", "LLaMA Variants", "RAG Systems"
+    ],
+    capabilities: [
+      "Text Generation", "Sentiment Analysis", "Named Entity Recognition",
+      "Question Answering", "Text Summarization", "Language Translation",
+      "Prompt Engineering", "Zero-shot Learning"
+    ]
+  },
+  
+  reinforcement_learning: [
+    "Deep Q-Networks", "Policy Gradients", "Actor-Critic Methods",
+    "DDPG", "PPO", "SAC", "Multi-Agent Systems", "MARL",
+    "Decision Transformers", "AlphaZero Methodology"
+  ],
+  
+  adversarial_machine_learning: [
+    "Model Attacks", "Evasion Techniques", "Data Poisoning",
+    "Model Inversion", "Membership Inference", "Adversarial Training",
+    "Robust ML Design", "Privacy-Preserving ML"
+  ],
+  
+  deployment_expertise: [
+    "Model Optimization", "Quantization", "Pruning", "Knowledge Distillation",
+    "Edge AI Deployment", "TinyML", "MLOps", "Monitoring",
+    "Drift Detection", "Explainable AI", "AI Ethics"
+  ]
+};
+</div>
+<span style="color:
+#00ff00">⟦⟦ 𝕊𝕪𝕤𝕥𝕖𝕞 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤 ⟧⟧</span>
+<div align="center"> <img src="/api/placeholder/900/400" alt="Neural Network Visualization"> </div>
+$ ./deep_scan.sh --target=BigD-Code --analysis=capabilities
 
-```bash
-$ grep -r "latest_activity" /var/log/
-```
+[■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Complete
 
-> Currently working on advanced AI-driven security analysis tools...
-> Exploring vulnerabilities in emerging IoT ecosystems...
-> Developing next-generation web penetration testing framework...
+╔══════════════════════════════════════════════════════════════════════════╗
+║                    𝐄𝐍𝐇𝐀𝐍𝐂𝐄𝐃 𝐂𝐀𝐏𝐀𝐁𝐈𝐋𝐈𝐓𝐘 𝐒𝐂𝐀𝐍 𝐑𝐄𝐒𝐔𝐋𝐓𝐒                    ║
+╠══════════════════════════════════╦═══════════════════════════════════════╣
+║                                  ║                                       ║
+║  Code Mastery:        [██████████████████████████▒▒]  92%               ║
+║  Web Development:     [█████████████████████████▒▒▒]  89%               ║
+║  Security Research:   [███████████████████████████▒]  96%               ║
+║  Exploit Creation:    [██████████████████████████▒▒]  93%               ║
+║  System Penetration:  [███████████████████████████▒]  95%               ║
+║  Hardware Hacking:    [██████████████████████▒▒▒▒▒▒]  80%               ║
+║  AI Development:      [████████████████████████▒▒▒▒]  85%               ║
+║  Cryptography:        [█████████████████████▒▒▒▒▒▒▒]  78%               ║
+║  Digital Forensics:   [███████████████████████▒▒▒▒▒]  82%               ║
+║  Zero-Day Discovery:  [██████████████████████████▒▒]  94%               ║
+║                                  ║                                       ║
+║  THREAT ASSESSMENT:   [E X T R E M E]                                   ║
+║                                  ║                                       ║
+╠══════════════════════════════════╩═══════════════════════════════════════╣
+║  ADVISORY: Subject demonstrates exceptional capabilities across multiple  ║
+║  domains. Approach with extreme caution. Do not attempt engagement        ║
+║  without proper authorization and security measures.                      ║
+╚══════════════════════════════════════════════════════════════════════════╝
+<span style="color:
+#00ff00">⟦⟦ 𝔼𝕧𝕖𝕟𝕥 𝕃𝕠𝕘 ⟧⟧</span>
+<div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border: 1px solid #32CD32;">
+bash
+$ cat /var/log/intrusion_detection/BigD-Code_activity.log | tail -n 8
 
+[2025-04-12 03:21:47] [ALERT] Detected sophisticated zero-day vulnerability in mainstream security product
+[2025-04-13 18:05:33] [INFO] Developing exploit code for discovered vulnerability
+[2025-04-14 22:19:05] [SUCCESS] Created undetectable backdoor in target system
+[2025-04-15 07:36:28] [INFO] Training new neural network for enhanced facial recognition bypass
+[2025-04-16 14:43:12] [WARNING] Multiple IDS/IPS evasion techniques tested successfully
+[2025-04-17 01:27:59] [CRITICAL] Remote code execution achieved with novel supply chain attack vector
+[2025-04-18 11:08:34] [INFO] Designing new radio frequency interception device
+[2025-04-18 19:22:15] [ALERT] Anomalous connection detected - system visitor identified...
+</div>
+<span style="color:
+#00ff00">⟦⟦ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕍𝕖𝕔𝕥𝕠𝕣𝕤 ⟧⟧</span>
 <div align="center">
+<a href="https://github.com/BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=green&labelColor=black" alt="GitHub"></a>
+<a href="https://twitter.com/BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=green&labelColor=black" alt="Twitter"></a>
+<a href="https://discord.gg/BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=green&labelColor=black" alt="Discord"></a>
+<a href="http://bigdcodexyz123.onion" target="_blank"><img src="https://img.shields.io/badge/-Dark_Web-000000?style=for-the-badge&logo=tor-browser&logoColor=green&labelColor=black" alt="Dark Web"></a>
+<a href="https://matrix.to/#/@BigD-Code:matrix.org" target="_blank"><img src="https://img.shields.io/badge/-Matrix-000000?style=for-the-badge&logo=matrix&logoColor=green&labelColor=black" alt="Matrix"></a>
+<a href="https://signal.me/#BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=green&labelColor=black" alt="Signal"></a>
 
-```
-$ sudo chmod 777 reality
-```
-
+<br> <img src="/api/placeholder/900/2" alt="" style="margin-top:20px;"> <br>
+[ENCRYPTION KEY: ████████-████-████-████-████████████]
+[COMMUNICATION PROTOCOLS: PGP, OTR, Signal, Secure Drop]
 </div>
-
----
-
-<div align="center">
-  <img src="/api/placeholder/900/150" alt="Terminal Footer">
-  <br>
-  <code>BigD-Code@github:~$ █</code>
-</div>
+<span style="color:
+#00ff00">⟦⟦ 𝔼ℕ𝕂ℝ𝕐ℙ𝕋𝔼𝔻 𝕄𝔼𝕊𝕊𝔸𝔾𝔼 ⟧⟧</span>
+<div align="center"> <div style="background-color: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 10px; border: 1px solid #32CD32; font-family: monospace;">
+-----BEGIN PGP MESSAGE-----
+hQIMA6JVT4Xn+DQ5AQ//RsLqJbCZQX5S+3O4H5EJzCc5x9cjgixHA0IlV31G
+tJ5CiGjcbVXR9Y3gnOXdTMwlGQ8m89qqxPQMDlnZ2THDWVnC8K8JmUeGYRyf
+4f+5RW5vMFFrtzUcjN4JWa2EJsIkZ+Zs+nh1kMpMbWJR15CctTqpSMCn38JN
++RnES3O5hxT+iKyPvEPNDULZJVXVQVR3gEbZQfx8FV6Wm2f0LhNrRMt+q89v
+/5NFpXEQdCkjlExxKRvTRp5pPIQJ4JR0wEjpYB5GgCJu8SJDXlrPeZYRvdvh
+I5zjFShMmmk8Ys5+JbmH/8h3rOhxgBvLg9U9QF//T4aQmjg=
+=HTXL
+-----END PGP MESSAGE-----
+</div> </div> <br>
+<div align="center"> <img src="/api/placeholder/900/150" alt="Digital Circuit Board">
+BigD-Code@darknet:~# In the digital wilderness, only the most adaptable survive... █
+</div> <!-- Binary Footer --> <div align="center" style="font-size:8px;"> 01000001 01101100 01101100 00100000 01110111 01101000 01101111 00100000 01100101 01101110 01110100 01100101 01110010 00100000 01101000 01100101 01110010 01100101 00101100 00100000 01100001 01100010 01100001 01101110 01100100 01101111 01101110 00100000 01100001 01101100 01101100 00100000 01110011 01100101 01100011 01110101 01110010 01101001 01110100 01111001 </div>
