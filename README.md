@@ -1,7 +1,17 @@
-<!-- Matrix Digital Rain Effect --> <div align="center"> <img src="/api/placeholder/900/150" alt="Matrix Digital Rain"> </div>
-<span style="color:
-#00ff00">〘 B̷̨̛̟͈i̴͖̿g̸̭̀Ḏ̵̽-̶̧̻͐C̵͕͆ȍ̵̤d̷̗̀e̶̪̎ 〙</span>
-<div align="center"> <img src="/api/placeholder/900/350" alt="BigD-Code Terminal Interface">
+<!-- Matrix Digital Rain Header -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Matrix Digital Rain" width="900">
+</div>
+
+# 〘 B̴̰̋i̶̡͑g̸̖͝D̶̢̈-̴̱͊C̵̪̀o̷̻͑d̴̰̏e̷̗̓ 〙
+
+<div align="center">
+  
+[![Visits](https://komarev.com/ghpvc/?username=BigD-Code&style=flat-square&color=00ff00&label=VISITS)](https://github.com/BigD-Code)
+[![GitHub followers](https://img.shields.io/github/followers/BigD-Code?style=flat-square&color=00ff00&logo=github&label=FOLLOWERS)](https://github.com/BigD-Code)
+[![GitHub stars](https://img.shields.io/github/stars/BigD-Code?style=flat-square&color=00ff00&logo=github&label=STARS)](https://github.com/BigD-Code)
+
+```ascii
 ╔════════════════════════════════════════════════════════════════════════════════╗
 ║ [!] SECURITY BREACH DETECTED                                                   ║
 ║ [!] UNAUTHORIZED ACCESS TO SYSTEM                                              ║
@@ -10,8 +20,17 @@
 ║ [+] ACCESS GRANTED TO USER: BigD-Code                                          ║
 ║ [+] WELCOME TO THE VOID                                                        ║
 ╚════════════════════════════════════════════════════════════════════════════════╝
-</div> <div align="center"> <code>$ sudo ./initiate_neural_interface --deep-scan --target=mainframe</code> </div> <br> <!-- Terminal Output Section -->
-bash
+```
+
+</div>
+
+<div align="center">
+  <code>$ sudo ./initiate_neural_interface --deep-scan --target=mainframe</code>
+</div>
+
+<br>
+
+```bash
 #!/bin/bash
 #=======================================================================================
 # SYSTEM INFILTRATION IN PROGRESS
@@ -26,22 +45,64 @@ echo "[+] Creating backdoor..."
 echo "[+] Extracting sysadmin credentials..."
 echo "[+] Elevating privileges..."
 echo "[+] Root access obtained: Welcome to BigD-Code_"
-<span style="color:
-#00ff00">⟦⟦ 𝕋𝕙𝕖 𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣 ⟧⟧</span>
-<div align="center"> <table border="0"> <tr> <td width="40%" align="center"> <img src="/api/placeholder/300/300" alt="Cyber Identity" style="border-radius:15px; border:2px solid #32CD32"> </td> <td width="60%"> <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #32CD32;"> <pre><code> ┌──────────────────────────────────────────────────┐ │ │ │ CODENAME: BigD-Code │ │ STATUS: Active │ │ THREAT LEVEL: Critical │ │ SPECIALIZATION: Full-Spectrum Cyber Operations │ │ LOCATION: [REDACTED] │ │ KNOWN ASSOCIATES: [DATA EXPUNGED] │ │ │ └──────────────────────────────────────────────────┘ </code></pre> </div> </td> </tr> </table> </div> <details> <summary><b>📂 CLASSIFIED DOSSIER [CLICK TO DECRYPT]</b></summary> <br>
-I navigate the boundary between digital and physical realms, manipulating bits and bytes to bend reality. As a digital phantom, I infiltrate systems, reshape code, and create digital fortresses. My knowledge spans from the deepest layers of hardware to the ethereal landscapes of artificial intelligence.
+```
 
-Where others see barriers, I see doorways. Where others see rules, I see guidelines. The digital world is my canvas, and code is my art form.
+## ⟦⟦ 𝕋𝕙𝕖 𝕆𝕡𝕖𝕣𝕒𝕥𝕠𝕣 ⟧⟧
 
-[ALERT]: This operator has been flagged for exceptional abilities in system penetration and zero-day discovery.
+<table border="0">
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://github.com/BigD-Code/assets/raw/main/profile.gif" alt="Cyber Identity" width="300" style="border-radius:15px; border:2px solid #32CD32">
+    </td>
+    <td width="60%">
+      <div style="background-color: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 10px; border: 1px solid #32CD32;">
+      
+```
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│ CODENAME: BigD-Code                              │
+│ STATUS: Active                                   │
+│ THREAT LEVEL: Critical                           │
+│ SPECIALIZATION: Full-Spectrum Cyber Operations   │
+│ LOCATION: [REDACTED]                             │
+│ KNOWN ASSOCIATES: [DATA EXPUNGED]                │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+      
+</div>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>📂 CLASSIFIED DOSSIER [CLICK TO DECRYPT]</b></summary>
+  <br>
+  I navigate the boundary between digital and physical realms, manipulating bits and bytes to bend reality. As a digital phantom, I infiltrate systems, reshape code, and create digital fortresses. My knowledge spans from the deepest layers of hardware to the ethereal landscapes of artificial intelligence.
+
+  Where others see barriers, I see doorways. Where others see rules, I see guidelines. The digital world is my canvas, and code is my art form.
+
+  [ALERT]: This operator has been flagged for exceptional abilities in system penetration and zero-day discovery.
 </details>
-<span style="color:
-#00ff00">⟦⟦ 𝔸𝕣𝕤𝕖𝕟𝕒𝕝 & ℂ𝕒𝕡𝕒𝕓𝕚𝕝𝕚𝕥𝕚𝕖𝕤 ⟧⟧</span>
-<div align="center"> <img src="/api/placeholder/900/100" alt="Digital Landscape"> </div> <table border="0"> <tr> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="Code Icon"><br> <b style="color:#00ff00">⟪ CODE MASTERY ⟫</b> </td> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="Security Icon"><br> <b style="color:#00ff00">⟪ SECURITY OPS ⟫</b> </td> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="Hardware Icon"><br> <b style="color:#00ff00">⟪ HARDWARE HACKING ⟫</b> </td> <td width="25%" align="center"> <img src="/api/placeholder/80/80" alt="AI Icon"><br> <b style="color:#00ff00">⟪ AI DEVELOPMENT ⟫</b> </td> </tr> </table>
-<span style="color:
-#00ff00">░▒▓█ ℂ𝕠𝕕𝕖 𝕄𝕒𝕤𝕥𝕖𝕣𝕪 █▓▒░</span>
+
+## ⟦⟦ 𝔸𝕣𝕤𝕖𝕟𝕒𝕝 & ℂ𝕒𝕡𝕒𝕓𝕚𝕝𝕚𝕥𝕚𝕖𝕤 ⟧⟧
+
+<div align="center">
+  <img src="https://github.com/BigD-Code/assets/raw/main/digital_landscape.gif" alt="Digital Landscape" width="900">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CODE%20MASTERY-00ff00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Code Mastery">
+  <img src="https://img.shields.io/badge/SECURITY%20OPS-00ff00?style=for-the-badge&logo=hackaday&logoColor=white" alt="Security Ops">
+  <img src="https://img.shields.io/badge/HARDWARE%20HACKING-00ff00?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware Hacking">
+  <img src="https://img.shields.io/badge/AI%20DEVELOPMENT-00ff00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Development">
+</p>
+
+### ░▒▓█ ℂ𝕠𝕕𝕖 𝕄𝕒𝕤𝕥𝕖𝕣𝕪 █▓▒░
+
 <div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
-typescript
+
+```typescript
 class EliteCodeMaster {
   private readonly languages: string[] = [
     "Python", "JavaScript/TypeScript", "Rust", "C/C++", "Go", "Assembly", "Ruby"
@@ -73,11 +134,15 @@ class EliteCodeMaster {
     console.log("Monitoring with Prometheus, Grafana, and ELK Stack");
   }
 }
+```
+
 </div>
-<span style="color:
-#00ff00">░▒▓█ 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕆𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟𝕤 █▓▒░</span>
+
+### ░▒▓█ 𝕊𝕖𝕔𝕦𝕣𝕚𝕥𝕪 𝕆𝕡𝕖𝕣𝕒𝕥𝕚𝕠𝕟𝕤 █▓▒░
+
 <div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
-python
+
+```python
 def security_arsenal():
     """Initialize the complete security toolkit of BigD-Code"""
     return {
@@ -98,11 +163,15 @@ def security_arsenal():
         },
         "operating_systems": ["Kali Linux", "ParrotOS", "BlackArch", "Qubes OS", "Tails", "Custom Hardened Linux"]
     }
+```
+
 </div>
-<span style="color:
-#00ff00">░▒▓█ ℍ𝕒𝕣𝕕𝕨𝕒𝕣𝕖 ℍ𝕒𝕔𝕜𝕚𝕟𝕘 █▓▒░</span>
+
+### ░▒▓█ ℍ𝕒𝕣𝕕𝕨𝕒𝕣𝕖 ℍ𝕒𝕔𝕜𝕚𝕟𝕘 █▓▒░
+
 <div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
-c
+
+```c
 typedef struct {
     char* platforms[10];
     char* radio_frequency[8];
@@ -146,11 +215,15 @@ HardwareArsenal initialize_hardware_toolkit() {
     
     return arsenal;
 }
+```
+
 </div>
-<span style="color:
-#00ff00">░▒▓█ 𝔸𝕀 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 █▓▒░</span>
+
+### ░▒▓█ 𝔸𝕀 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕞𝕖𝕟𝕥 █▓▒░
+
 <div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border-left: 3px solid #32CD32;">
-javascript
+
+```javascript
 const AI_capabilities = {
   core_frameworks: [
     "TensorFlow", "PyTorch", "JAX", "Keras", "scikit-learn", 
@@ -199,10 +272,17 @@ const AI_capabilities = {
     "Drift Detection", "Explainable AI", "AI Ethics"
   ]
 };
+```
+
 </div>
-<span style="color:
-#00ff00">⟦⟦ 𝕊𝕪𝕤𝕥𝕖𝕞 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤 ⟧⟧</span>
-<div align="center"> <img src="/api/placeholder/900/400" alt="Neural Network Visualization"> </div>
+
+## ⟦⟦ 𝕊𝕪𝕤𝕥𝕖𝕞 𝔸𝕟𝕒𝕝𝕪𝕥𝕚𝕔𝕤 ⟧⟧
+
+<div align="center">
+  <img src="https://github.com/BigD-Code/assets/raw/main/neural_network.gif" alt="Neural Network Visualization" width="900">
+</div>
+
+```
 $ ./deep_scan.sh --target=BigD-Code --analysis=capabilities
 
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Complete
@@ -229,10 +309,13 @@ $ ./deep_scan.sh --target=BigD-Code --analysis=capabilities
 ║  domains. Approach with extreme caution. Do not attempt engagement        ║
 ║  without proper authorization and security measures.                      ║
 ╚══════════════════════════════════════════════════════════════════════════╝
-<span style="color:
-#00ff00">⟦⟦ 𝔼𝕧𝕖𝕟𝕥 𝕃𝕠𝕘 ⟧⟧</span>
+```
+
+## ⟦⟦ 𝔼𝕧𝕖𝕟𝕥 𝕃𝕠𝕘 ⟧⟧
+
 <div style="background-color: rgba(0, 30, 0, 0.5); padding: 15px; border-radius: 10px; border: 1px solid #32CD32;">
-bash
+
+```bash
 $ cat /var/log/intrusion_detection/BigD-Code_activity.log | tail -n 8
 
 [2025-04-12 03:21:47] [ALERT] Detected sophisticated zero-day vulnerability in mainstream security product
@@ -243,24 +326,36 @@ $ cat /var/log/intrusion_detection/BigD-Code_activity.log | tail -n 8
 [2025-04-17 01:27:59] [CRITICAL] Remote code execution achieved with novel supply chain attack vector
 [2025-04-18 11:08:34] [INFO] Designing new radio frequency interception device
 [2025-04-18 19:22:15] [ALERT] Anomalous connection detected - system visitor identified...
-</div>
-<span style="color:
-#00ff00">⟦⟦ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕍𝕖𝕔𝕥𝕠𝕣𝕤 ⟧⟧</span>
-<div align="center">
-<a href="https://github.com/BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=green&labelColor=black" alt="GitHub"></a>
-<a href="https://twitter.com/BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=green&labelColor=black" alt="Twitter"></a>
-<a href="https://discord.gg/BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=green&labelColor=black" alt="Discord"></a>
-<a href="http://bigdcodexyz123.onion" target="_blank"><img src="https://img.shields.io/badge/-Dark_Web-000000?style=for-the-badge&logo=tor-browser&logoColor=green&labelColor=black" alt="Dark Web"></a>
-<a href="https://matrix.to/#/@BigD-Code:matrix.org" target="_blank"><img src="https://img.shields.io/badge/-Matrix-000000?style=for-the-badge&logo=matrix&logoColor=green&labelColor=black" alt="Matrix"></a>
-<a href="https://signal.me/#BigD-Code" target="_blank"><img src="https://img.shields.io/badge/-Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=green&labelColor=black" alt="Signal"></a>
+```
 
-<br> <img src="/api/placeholder/900/2" alt="" style="margin-top:20px;"> <br>
-[ENCRYPTION KEY: ████████-████-████-████-████████████]
-[COMMUNICATION PROTOCOLS: PGP, OTR, Signal, Secure Drop]
 </div>
-<span style="color:
-#00ff00">⟦⟦ 𝔼ℕ𝕂ℝ𝕐ℙ𝕋𝔼𝔻 𝕄𝔼𝕊𝕊𝔸𝔾𝔼 ⟧⟧</span>
-<div align="center"> <div style="background-color: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 10px; border: 1px solid #32CD32; font-family: monospace;">
+
+## ⟦⟦ ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕍𝕖𝕔𝕥𝕠𝕣𝕤 ⟧⟧
+
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff00&labelColor=black)](https://github.com/BigD-Code)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=00ff00&labelColor=black)](https://twitter.com/BigD-Code)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=00ff00&labelColor=black)](https://discord.gg/BigD-Code)
+[![Dark Web](https://img.shields.io/badge/-Dark_Web-000000?style=for-the-badge&logo=tor-browser&logoColor=00ff00&labelColor=black)](http://bigdcodexyz123.onion)
+[![Matrix](https://img.shields.io/badge/-Matrix-000000?style=for-the-badge&logo=matrix&logoColor=00ff00&labelColor=black)](https://matrix.to/#/@BigD-Code:matrix.org)
+[![Signal](https://img.shields.io/badge/-Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=00ff00&labelColor=black)](https://signal.me/#BigD-Code)
+
+<br>
+  
+---
+
+[ENCRYPTION KEY: ████████-████-████-████-████████████]<br>
+[COMMUNICATION PROTOCOLS: PGP, OTR, Signal, Secure Drop]
+
+</div>
+
+## ⟦⟦ 𝔼ℕ𝕂ℝ𝕐ℙ𝕋𝔼𝔻 𝕄𝔼𝕊𝕊𝔸𝔾𝔼 ⟧⟧
+
+<div align="center">
+  <div style="background-color: rgba(0, 0, 0, 0.8); padding: 20px; border-radius: 10px; border: 1px solid #32CD32; font-family: monospace;">
+
+```
 -----BEGIN PGP MESSAGE-----
 hQIMA6JVT4Xn+DQ5AQ//RsLqJbCZQX5S+3O4H5EJzCc5x9cjgixHA0IlV31G
 tJ5CiGjcbVXR9Y3gnOXdTMwlGQ8m89qqxPQMDlnZ2THDWVnC8K8JmUeGYRyf
@@ -270,7 +365,23 @@ tJ5CiGjcbVXR9Y3gnOXdTMwlGQ8m89qqxPQMDlnZ2THDWVnC8K8JmUeGYRyf
 I5zjFShMmmk8Ys5+JbmH/8h3rOhxgBvLg9U9QF//T4aQmjg=
 =HTXL
 -----END PGP MESSAGE-----
-</div> </div> <br>
-<div align="center"> <img src="/api/placeholder/900/150" alt="Digital Circuit Board">
+```
+
+  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/BigD-Code/assets/raw/main/circuit_board.gif" alt="Digital Circuit Board" width="900">
+  
+```
 BigD-Code@darknet:~# In the digital wilderness, only the most adaptable survive... █
-</div> <!-- Binary Footer --> <div align="center" style="font-size:8px;"> 01000001 01101100 01101100 00100000 01110111 01101000 01101111 00100000 01100101 01101110 01110100 01100101 01110010 00100000 01101000 01100101 01110010 01100101 00101100 00100000 01100001 01100010 01100001 01101110 01100100 01101111 01101110 00100000 01100001 01101100 01101100 00100000 01110011 01100101 01100011 01110101 01110010 01101001 01110100 01111001 </div>
+```
+
+</div>
+
+<!-- Binary Footer -->
+<div align="center" style="font-size:8px;">
+  01000001 01101100 01101100 00100000 01110111 01101000 01101111 00100000 01100101 01101110 01110100 01100101 01110010 00100000 01101000 01100101 01110010 01100101 00101100 00100000 01100001 01100010 01100001 01101110 01100100 01101111 01101110 00100000 01100001 01101100 01101100 00100000 01110011 01100101 01100011 01110101 01110010 01101001 01110100 01111001
+</div>
