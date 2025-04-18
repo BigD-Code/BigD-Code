@@ -92,10 +92,10 @@ echo "[+] Root access obtained: Welcome to BigD-Code_"
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CODE%20MASTERY-00ff00?style=for-the-badge&logo=codeforces&logoColor=white" alt="Code Mastery">
-  <img src="https://img.shields.io/badge/SECURITY%20OPS-00ff00?style=for-the-badge&logo=hackaday&logoColor=white" alt="Security Ops">
-  <img src="https://img.shields.io/badge/HARDWARE%20HACKING-00ff00?style=for-the-badge&logo=arduino&logoColor=white" alt="Hardware Hacking">
-  <img src="https://img.shields.io/badge/AI%20DEVELOPMENT-00ff00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Development">
+  <img src="https://img.shields.io/badge/CODE%20MASTERY-00ff00?style=for-the-badge&logo=codeforces&logoColor=black" alt="Code Mastery">
+  <img src="https://img.shields.io/badge/SECURITY%20OPS-00ff00?style=for-the-badge&logo=hackaday&logoColor=black" alt="Security Ops">
+  <img src="https://img.shields.io/badge/HARDWARE%20HACKING-00ff00?style=for-the-badge&logo=arduino&logoColor=black" alt="Hardware Hacking">
+  <img src="https://img.shields.io/badge/AI%20DEVELOPMENT-00ff00?style=for-the-badge&logo=tensorflow&logoColor=blackS" alt="AI Development">
 </p>
 
 ### ░▒▓█ ℂ𝕠𝕕𝕖 𝕄𝕒𝕤𝕥𝕖𝕣𝕪 █▓▒░
@@ -288,26 +288,26 @@ $ ./deep_scan.sh --target=BigD-Code --analysis=capabilities
 [■■■■■■■■■■■■■■■■■■■■■■■■■■■■] 100% Complete
 
 ╔══════════════════════════════════════════════════════════════════════════╗
-║                    𝐄𝐍𝐇𝐀𝐍𝐂𝐄𝐃 𝐂𝐀𝐏𝐀𝐁𝐈𝐋𝐈𝐓𝐘 𝐒𝐂𝐀𝐍 𝐑𝐄𝐒𝐔𝐋𝐓𝐒                    ║
+║                    𝐄𝐍𝐇𝐀𝐍𝐂𝐄𝐃 𝐂𝐀𝐏𝐀𝐁𝐈𝐋𝐈𝐓𝐘 𝐒𝐂𝐀𝐍 𝐑𝐄𝐒𝐔𝐋𝐓𝐒                   ║
 ╠══════════════════════════════════╦═══════════════════════════════════════╣
 ║                                  ║                                       ║
-║  Code Mastery:        [██████████████████████████▒▒]  92%               ║
-║  Web Development:     [█████████████████████████▒▒▒]  89%               ║
-║  Security Research:   [███████████████████████████▒]  96%               ║
-║  Exploit Creation:    [██████████████████████████▒▒]  93%               ║
-║  System Penetration:  [███████████████████████████▒]  95%               ║
-║  Hardware Hacking:    [██████████████████████▒▒▒▒▒▒]  80%               ║
-║  AI Development:      [████████████████████████▒▒▒▒]  85%               ║
-║  Cryptography:        [█████████████████████▒▒▒▒▒▒▒]  78%               ║
-║  Digital Forensics:   [███████████████████████▒▒▒▒▒]  82%               ║
-║  Zero-Day Discovery:  [██████████████████████████▒▒]  94%               ║
+║  Code Mastery:        [██████████████████████████▒▒]  92%                ║
+║  Web Development:     [█████████████████████████▒▒▒]  89%                ║
+║  Security Research:   [███████████████████████████▒]  96%                ║
+║  Exploit Creation:    [██████████████████████████▒▒]  93%                ║
+║  System Penetration:  [███████████████████████████▒]  95%                ║
+║  Hardware Hacking:    [██████████████████████▒▒▒▒▒▒]  80%                ║
+║  AI Development:      [████████████████████████▒▒▒▒]  85%                ║
+║  Cryptography:        [█████████████████████▒▒▒▒▒▒▒]  78%                ║
+║  Digital Forensics:   [███████████████████████▒▒▒▒▒]  82%                ║
+║  Zero-Day Discovery:  [██████████████████████████▒▒]  94%                ║
 ║                                  ║                                       ║
-║  THREAT ASSESSMENT:   [E X T R E M E]                                   ║
+║  THREAT ASSESSMENT:   [E X T R E M E]                                    ║
 ║                                  ║                                       ║
 ╠══════════════════════════════════╩═══════════════════════════════════════╣
-║  ADVISORY: Subject demonstrates exceptional capabilities across multiple  ║
-║  domains. Approach with extreme caution. Do not attempt engagement        ║
-║  without proper authorization and security measures.                      ║
+║  ADVISORY: Subject demonstrates exceptional capabilities across multiple ║
+║  domains. Approach with extreme caution. Do not attempt engagement       ║
+║  without proper authorization and security measures.                     ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
